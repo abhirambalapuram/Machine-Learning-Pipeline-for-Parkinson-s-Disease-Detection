@@ -5,6 +5,7 @@ This project builds a machine learning pipeline to detect Parkinson’s disease 
 It includes data preprocessing, exploratory analysis, model training (Logistic Regression, Random Forest, SVM), hyperparameter tuning with cross-validation, evaluation, and model saving for deployment.
 
 Project Structure
+
 ├── parkinsons.csv                  
 ├── parkinsons_ml_pipeline_v2.py    
 ├── notebooks/                                           
